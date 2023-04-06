@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Hossein and I'm a:
+- 🪄 Full-Stack Web Developer 
+- 🐋 DevOps Specialist
+- 🐈‍⬛ Cat Lover
+- 🤓 Reading Enthusiast 
+- 💥 And Much More
+
+
 <!--
 **hossein1376/hossein1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
