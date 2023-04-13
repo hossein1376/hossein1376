@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Hossein and I'm a:
-- 🪄 Full-Stack Web Developer 
+[My name is Hossein!](https://hmyazdani.ir/)
+
+I'm a:
+- ⚛️ Full-Stack Web Developer 
 - 🐋 DevOps Specialist
 - 🐈‍⬛ Cat Lover
-- 🤓 Reading Enthusiast 
+- 📖 Reading Enthusiast 
 - 💥 And Much More
 
 
