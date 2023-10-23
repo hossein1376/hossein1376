@@ -3,7 +3,7 @@
 [My name is Hossein!](https://GodlyNice.ir/)  
 
 I'm a :  
-\- ⚛️ Full-Stack Web Developer  
+\- ⚛️ Web Developer  
 \- 🐋 DevOps Specialist  
 \- 🐈‍⬛ Cat Lover  
 \- 📖 Reading Enthusiast  
