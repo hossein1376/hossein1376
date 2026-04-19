@@ -7,4 +7,5 @@ I'm a :
 \- 🐋 DevOps Specialist  
 \- 🐈‍⬛ Cat Lover  
 \- 📖 Reading Enthusiast  
+\- 🎸 Electric Guitarist  
 \- 💥 And Much More
